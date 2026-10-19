@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.7.3](https://github.com/astroautomata/PySR/compare/v2.7.2...v2.7.3) (2026-10-19)
+
+
+### Documentation
+
+* drop contributor avatars from the pysr.ai homepage ([#1438](https://github.com/astroautomata/PySR/issues/1438)) ([59dbe45](https://github.com/astroautomata/PySR/commit/59dbe453a93df4305a263d0b8a5ed127cb2e3288))
+
 ## [2.7.2](https://github.com/astroautomata/PySR/compare/v2.7.1...v2.7.2) (2026-10-18)
 
 
